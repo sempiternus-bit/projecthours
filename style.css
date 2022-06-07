@@ -27,6 +27,6 @@ footer{
 @media screen and (max-width: 768px){
 	section{
 		width: 100%;
-		margin-right: 10%;
+		margin-right: 20px;
 	}
 }
