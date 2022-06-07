@@ -26,14 +26,15 @@ footer{
 }
 @media screen and (max-width: 768px){
 	body{
-		padding-right: 25px;
+		padding-right: 30px;
 	}
 	
 	section{
+		display: flex;
 		width: 100%;
 	}
 	img{
-		margin: 0 auto;
+		justify-content: center;
 	}
 	
 }
