@@ -27,6 +27,7 @@ footer{
 @media screen and (max-width: 768px){
 	body{
 		padding-right: 30px;
+		text-align: center;
 	}
 	
 	section{
@@ -34,7 +35,7 @@ footer{
 	}
 	img{
 		display: block;
-		float: center;
+		float: left;
 	}
 	
 }
