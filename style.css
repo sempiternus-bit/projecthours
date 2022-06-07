@@ -26,11 +26,11 @@ footer{
 }
 @media screen and (max-width: 768px){
 	body{
-		padding-right: 30px;
+		padding-right: 25px;
 	}
 	
 	section{
-		width: 95%;
+		width: 100%;
 	}
 	img{
 		margin: 0 auto;
